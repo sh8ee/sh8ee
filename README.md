@@ -1,16 +1,40 @@
-### Hi there 👋
+**Hey There, I'm Shree!**  
 
-<!--
-**sh8ee/sh8ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧪 I've developed some other side projects *(see below)*
+<br><br>
 
-Here are some ideas to get you started:
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sh8ee" alt="sh8ee" /></a> </p>
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**What I feel comfortable using:**  
+  
+*Frontend*  
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) 
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) 
+
+*Backend*  
+![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs)
+![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) 
+
+*Deployment*  
+![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
+![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
+
+<br/><br/>
+
+**Fancy stats**
+
+
+<div class="container" >
+  <br/>
+  <a href="https://youtube.com/c/sh3ee">
+    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=sh8ee&count_private=true&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a"/>
+  </a>
+  <a>
+    <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh8ee&count_private=true&card_width=495&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a" />
+  </a>
+  
+</div>
+
+**Thank You**
