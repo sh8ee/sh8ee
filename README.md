@@ -10,27 +10,21 @@
 **What I feel comfortable using:**  
   
 *Frontend*  
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) 
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) 
-
-*Backend*  
 ![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs)
 ![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) 
-
-*Deployment*  
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
 
 <br/><br/>
 
 **Fancy stats**
-
-
 <div class="container" >
   <br/>
   <a href="https://youtube.com/c/sh3ee">
     <img align= "center" src="https://github-readme-stats.vercel.app/api?username=sh8ee&count_private=true&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a"/>
   </a>
+  
   <a>
     <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh8ee&count_private=true&card_width=495&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a" />
   </a>
