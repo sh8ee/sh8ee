@@ -18,18 +18,13 @@
 
 <br/><br/>
 
-**Fancy stats**
-<div class="container" >
-  <br/>
-  <a href="https://youtube.com/c/sh3ee">
+
+## 🔖 My Statistics
+&nbsp;
+<p align="center">
+    <a href="https://youtube.com/c/sh3ee">
     <img align= "center" src="https://github-readme-stats.vercel.app/api?username=sh8ee&count_private=true&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a"/>
   </a>
-</div>
-
-
-<div class="container" >
-  <br/>
-  <a>
-    <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh8ee&count_private=true&card_width=495&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a" />
+  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh8ee&count_private=true&card_width=495&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a" />
   </a>
-</div>
+</p>
